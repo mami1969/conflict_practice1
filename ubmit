@@ -1,0 +1,20 @@
+[33mcommit dbbe7334d156528ebb7360f8b5730e628970bab2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: a394f2a aacb2b1
+Author: mami1969 <46170230+mami1969@users.noreply.github.com>
+Date:   Thu Nov 7 22:23:38 2024 +0900
+
+    Merge pull request #1 from mami1969/update-favorite-food1
+    
+    update the favorite food1
+
+[33mcommit aacb2b14993eb2ca4cf26fda28001cf3ddb613be[m[33m ([m[1;31morigin/update-favorite-food1[m[33m, [m[1;32mupdate-favorite-food1[m[33m)[m
+Author: 名前 <アドレス>
+Date:   Thu Nov 7 13:15:58 2024 +0000
+
+    update the favorite food1
+
+[33mcommit a394f2a96673595fcf0d8d11a3fa77c8bc300128[m[33m ([m[1;32mupdate-favorite-food[m[33m)[m
+Author: 名前 <アドレス>
+Date:   Thu Nov 7 13:07:14 2024 +0000
+
+    initial commit
